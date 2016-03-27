@@ -11,7 +11,7 @@ or other I managed to break the page, so I couldn't turn it on again, and becaus
 and hadn't added things one at a time, tracking the bug wasn't easy. What **is** easy, however,
 is Ctrl-Z. *Ctrl-Z* is your friend.
 
-And once I'd worked through that, it was fine. 
+And once I'd worked through that, it was fine.
 
 I have to say, I've never quite seen the point of Markdown -- _well_, let me put that differently: 
 I've never actually **needed** Markdown, and not needing it, I didn't learn it. That said, it's 
