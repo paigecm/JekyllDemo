@@ -4,4 +4,4 @@ Here's a picture.
 
 
 
-![Here's me and my cat #nofilter]({{paigecm.github.io/JekyllDemo}}/assets/paige and cat.jpg)
+![Here's me and my cat #nofilter]({{paigecm.github.io/JekyllDemo}}/assets/paige-and-cat.jpg)
