@@ -4,4 +4,4 @@ Here's a picture.
 
 
 
-![test](/_assets/paige-and-cat.jpg)
+![test](/blob/gh-pages/_assets/paige-and-cat.jpg)
