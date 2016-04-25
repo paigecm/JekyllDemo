@@ -1,1 +1,7 @@
 This is just a test post as I play around with addding files through github.
+
+Here's a picture.
+
+
+
+![Here's me and my cat #nofilter]({{paigecm.github.io/JekyllDemo}}/assets/paige and cat.jpg)
