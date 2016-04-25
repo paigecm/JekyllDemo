@@ -4,4 +4,4 @@ Here's a picture.
 
 
 
-(/JekyllDemo/_assets/paige-and-cat.jpg)
+![test](/JekyllDemo/_assets/paige-and-cat.jpg)
