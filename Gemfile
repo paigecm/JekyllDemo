@@ -5,4 +5,6 @@ source "https://rubygems.org"
 gem 'jekyll'
 gem 'github-pages'
 gem 'minima'
-#Test install of dbyll theme
+
+
+
